@@ -4,8 +4,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 
-<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25"/>
-This repo contains my Swift projects from Paul Hudson's awesome Hacking With Swift tutorial series.
+<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25"/> This repo contains my Swift projects from Paul Hudson's awesome Hacking With Swift tutorial series.
 
 https://www.hackingwithswift.com/100
 
